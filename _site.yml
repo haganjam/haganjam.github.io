@@ -1,2 +1,6 @@
 name: James G. Hagan
 output_dir: docs
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
