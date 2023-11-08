@@ -39,7 +39,7 @@ A full list of publications can be found on my [Google Scholar](https://scholar.
 
 - Gould E, … **Hagan JG**, et al. (2023, preprint). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology](https://doi.org/10.32942/X2GG62). EcoEvoRxiv. 
 
--Gamfeldt L, **Hagan JG**, Farewell A, Palm M, Warringer J, Roger F. (2023). [Scaling-up the biodiversity–ecosystem functioning relationship: the effect of environmental heterogeneity on transgressive overyielding](https://doi.org/10.1111/oik.09652). *Oikos* 2023: e09652.
+- Gamfeldt L, **Hagan JG**, Farewell A, Palm M, Warringer J, Roger F. (2023). [Scaling-up the biodiversity–ecosystem functioning relationship: the effect of environmental heterogeneity on transgressive overyielding](https://doi.org/10.1111/oik.09652). *Oikos* 2023: e09652.
 
 - Scrofner-Brunner B, **Hagan JG**, Cappelatti L, Hassellöv J, Wißmann M, Gamfeldt L (2023). [Macroalgae maintain growth outside their observed distributions: Implications for biodiversity-ecosystem functioning at landscape scales](https://doi.org/10.1111/1365-2745.14103). *Journal of Ecology* 111: 1362-1373.
 
