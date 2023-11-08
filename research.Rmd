@@ -2,4 +2,79 @@
 title: ""
 ---
 
+<style>
+header {
+  color: #000000;
+  background-color: #708090;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 14px;
+}
+body {
+  color: #000000;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+}
+pre {
+  color: #708090;
+  background-color: #F8F8FF;
+}
+</style>
+
+<br>
+
+#### RESEARCH PROJECTS
+
+I am always open for collaboration so feel free to reach out if any of these projects sound interesting to you.
+<br>
+<br>
+
+**Do the functional consequences biodiversity change with spatial scale?**
+
+It is currently well-accepted that biodiversity has important consequences for ecosystem functioning (process rates or stocks like productivity or biomass) at small spatial scales. Whether similar effects of biodiversity will be important in large scale heterogeneous landscapes is currently unknown. This will likely depend on environmental heterogeneity and the traits of species available in the species pool. Currently, we are addressing this question using a combination of simulation modelling, microcosm experiments and meta-analyses.
+
+Relevant publications:
+
+- Gamfeldt L, **Hagan JG**, Farewell A, Palm M, Warringer J, Roger F. (2023). [Scaling-up the biodiversity–ecosystem functioning relationship: the effect of environmental heterogeneity on transgressive overyielding](https://doi.org/10.1111/oik.09652). *Oikos* 2023: e09652.
+
+- **Hagan JG**, Schrofner-Brunner B, Gamfeldt L (2023, preprint). [Quantifying biodiversity effects on ecosystem functioning across space and time in natural and semi-natural ecosystems](https://doi.org/10.21203/rs.3.rs-3249429/v1). ResearchSquare.
+<br>
+<br>
+
+**How to study the relationship between biodiversity and ecosystem function in observational data?**
+
+The relationship between biodiversity and ecosystem functioning has historically been studied mainly using experimental approaches that directly manipulated biodiversity in some way. Recently, however, there has been a trend to quantify these relationships using observational survey data. Whilst these studies have, in some cases, provided useful information, we are unconvinced that these approaches are reliable. This project looks at how we might use observational data more constructively to study biodiversity and ecosystem functioning relationships.
+
+Relevant publications:
+
+- **Hagan JG**, Gamfeldt L, Vanschoenwinkel BJ (2021). [We should not necessarily expect positive relationships between biodiversity and ecosystem functioning in observational field data](https://doi.org/10.1111/ele.13874). *Ecology Letters* 24 (12), 2537-2548.
+<br>
+<br>
+
+**What is the relationship between biodiversity and multiple ecosystem functions?**
+
+In 2019, I was part of a workshop organised by Lars Gamfeldt and Fabian Roger who supervise my PhD. The goal of the workshop was to discuss whether the considering more ecosystem functions causes the effect of biodiversity to be stronger. Currently, we are addressing this question and other related questions.
+
+Relevant publications:
+
+- **Hagan JG**, Gamfeldt L, Brophy C, Fanin N, Gamfeldt L, Hautier Y, Manning P, Meyer S, Slade E, Rogier F (in prep.). A guide to quantifying multifunctionality in ecology, conservation and ecosystem management.
+<br>
+<br>
+
+**Understanding relevant biodiversity indicators to track conservation progress**
+
+Recently, I began a small collaboration that focused on understanding what common biodiversity indicators actually tell us about the state of nature at local and global scales. In this paper, we focused on the WWF’s Living Planet Index but we have plans to expand this to other common indicators in the future.
+
+Relevant publications:
+
+- Bushke FT, **Hagan JG**, Santini S, Coetzee BWT (2021). [Random population fluctuations bias the Living Planet Index](Random population fluctuations bias the Living Planet Index). *Nature Ecology and Evolution* 5: 1145–1152.
+<br>
+<br>
+
+**Evolution and species coexistence in diverse phytoplankton communities**
+
+Myself and Björn Andersson recently received two research grants to begin studying how rapid evolutionary processes alter species coexistence in diverse phytoplankton communities.
+
+
+
 

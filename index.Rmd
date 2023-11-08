@@ -11,7 +11,7 @@ header {
   font-size: 14px;
 }
 body {
-  color: #708090;
+  color: #000000;
   font-family: Calibri;
   background-color: #F5F5F5;
 }
@@ -23,19 +23,24 @@ pre {
 
 <br>
 
-#### About me
+#### ABOUT ME
 
-I'm a ecologist/biologist by training with a fondness for data science and statistics. My favourite tools are R and Stan.   
+I'm a ecologist/biologist by training with a fondness for data science and statistics. My favourite tools are R and Stan.  
+
+I took a *BSc* with a major in *Ecology and Evolution* from the University of Cape Town, South Africa (my home town). From then, I completed an *MSc* in Tropical Biology on an Erasmus Mundus scholarship before starting my current position as a a PhD student at the University of Gothenburg in Sweden.
+<br>
 <br>
 
-#### Current position
-
-Currently I'm a PhD student at the University of Gothenburg in Sweden. I'm interested in developing high-quality, meaningful biodiversity indicators and analytical methods to quantify how biological communities affect various ecosystem processes.   
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("images/cv_profile_picture2.jpg")
+```
 <br>
+<br>
+*Caption: A cold South African in beautiful Gothenburg, Sweden (2021)*
 
-#### Hometown | Education   
 
-I took BSc with a major in *ecology and evolution* from the University of Cape Town, South Africa (my home town). From then, I completed an MSc in Tropical Biology on an Erasmus Mundus scholarship before starting my current position.
+
+
 
 
 
