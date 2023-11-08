@@ -2,4 +2,6 @@
 title: "James G. Hagan"
 ---
 
+# Let's begin
+
 Hello, Website!
