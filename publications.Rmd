@@ -1,0 +1,62 @@
+---
+title: ""
+---
+
+<style>
+header {
+  color: #000000;
+  background-color: #708090;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 14px;
+}
+body {
+  color: #708090;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+}
+pre {
+  color: #708090;
+  background-color: #F8F8FF;
+}
+</style>
+
+<br>
+
+#### Journal articles
+
+**Hagan JG**, Gamfeldt L, Brophy C, Fanin N, Gamfeldt L, Hautier Y, Manning P, Meyer S, Slade E, Rogier F (in prep.). A guide to quantifying multifunctionality in ecology, conservation and ecosystem management.
+
+**Hagan JG**, Bergmann R, Snoeks J, Dolmans V, Vanschoenwinkel B (in prep). InvTraitR: Improving biomass estimations for freshwater invertebrates using taxonomic backbones and habitat similarity. Manuscript and R-package.
+
+**Hagan JG**, Henn JJ, Osterman WHA (2022). Matters Arising: Plant traits alone are good predictors of ecosystem properties when used carefully. Nature Ecology and Evolution 7. Response to: van der Plas et al. (2020, Nature Ecology and Evolution). 
+
+**Hagan JG**, Schrofner-Brunner B, Gamfeldt L (in review). Quantifying biodiversity effects on ecosystem functioning across space and time in natural and semi-natural ecosystems. PNAS. Preprint available on ResearchSquare.
+
+Gould E, … **Hagan JG**, et al. (2023). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. EcoEvoRxiv. 
+
+Scrofner-Brunner B, **Hagan JG**, Cappelatti L, Hassellöv J, Wißmann M, Gamfeldt L (2023). Macroalgae maintain growth outside their observed distributions: Implications for biodiversity-ecosystem functioning at landscape scales. Journal of Ecology 111: 1362-1373.
+
+**Hagan JG**, Gamfeldt L, Vanschoenwinkel BJ (2021). We should not necessarily expect positive relationships between biodiversity and ecosystem functioning in observational field data. Ecology Letters 24 (12), 2537-2548.
+
+Bushke FT, **Hagan JG**, Santini S, Coetzee BWT (2021). Random population fluctuations bias the Living Planet Index. Nature Ecology and Evolution.
+
+Olofsson M, **Hagan JG**, Karlson B, Gamfeldt L (2020). Large seasonal and spatial variation in nano- and microphytoplankton diversity along a Baltic Sea—North Sea salinity gradient. Scientific Reports 10: 17666.
+
+Joseph GS, Seymour CL, Coetzee BW, Ndlovu M, Deng L, Fowler K, **Hagan JG**, Brooks BJ, Seminara JA, Foord SH. (2018). Elephants, termites and mound thermoregulation in a progressively warmer world. Landscape Ecology 33: 731-742.
+
+**Hagan JG**, Du Toit JCO, Cramer MD. (2017). Long-term livestock grazing influences the recruitment success of epigeal termites: Insights from >75-year grazing experiment in the Karoo, South Africa. African Journal of Range and Forage Science 34: 123-132.
+<br>
+<br>
+
+#### Book chapters
+
+Luypaert T, **Hagan JG**, McCarthy ML, Poti M. (2020). Status of marine biodiversity in the Anthropocene. In: YOUMARES9 – A Conference from and for YOUng MARine RESearchers. Leibich V, Bode M, Jungblut S (eds). Springer International Publishing.
+<br>
+<br>
+
+#### Science communication
+
+**Hagan JG**, Cramer MD. Termites and grazers: a complex, subtle relationship. Farmer’s Weekly June (2018).
+
+

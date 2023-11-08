@@ -1,7 +1,44 @@
 ---
-title: "James G. Hagan"
+title: ""
 ---
 
-# Let's begin
+<style>
+header {
+  color: #000000;
+  background-color: #708090;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 14px;
+}
+body {
+  color: #708090;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+}
+pre {
+  color: #708090;
+  background-color: #F8F8FF;
+}
+</style>
 
-Hello, Website!
+<br>
+
+#### About me
+
+I'm a ecologist/biologist by training with a fondness for data science and statistics. My favourite tools are R and Stan.   
+<br>
+
+#### Current position
+
+Currently I'm a PhD student at the University of Gothenburg in Sweden. I'm interested in developing high-quality, meaningful biodiversity indicators and analytical methods to quantify how biological communities affect various ecosystem processes.   
+<br>
+
+#### Hometown | Education   
+
+I took BSc with a major in *ecology and evolution* from the University of Cape Town, South Africa (my home town). From then, I completed an MSc in Tropical Biology on an Erasmus Mundus scholarship before starting my current position.
+
+
+
+
+
+
