@@ -7,7 +7,6 @@ output:
     highlight: tango
     lib_dir: site_libs
     self_contained: no
-    toc: false
 navbar:
   title: James G. Hagan
   type: inverse

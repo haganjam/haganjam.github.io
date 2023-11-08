@@ -29,7 +29,7 @@ I am always open for collaboration so feel free to reach out if any of these pro
 <br>
 <br>
 
-**Do the functional consequences biodiversity change with spatial scale?**
+**Do the functional consequences of biodiversity change with spatial scale?**
 
 It is currently well-accepted that biodiversity has important consequences for ecosystem functioning (process rates or stocks like productivity or biomass) at small spatial scales. Whether similar effects of biodiversity will be important in large scale heterogeneous landscapes is currently unknown. This will likely depend on environmental heterogeneity and the traits of species available in the species pool. Currently, we are addressing this question using a combination of simulation modelling, microcosm experiments and meta-analyses.
 
