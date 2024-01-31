@@ -33,11 +33,13 @@ A full list of publications can be found on my [Google Scholar](https://scholar.
 
 - **Hagan JG**, Bergmann R, Snoeks J, Dolmans V, Vanschoenwinkel B (in prep). [InvTraitR: Improving biomass estimations for freshwater invertebrates using taxonomic backbones and habitat similarity](https://github.com/haganjam/FW_invert_biomass_allometry). Manuscript and R-package.
 
+- **Hagan JG** (2023). [Compensation alters estimates of the number of species required to maintain ecosystem functioning across an emersion gradient: A case study with intertidal macroalgae](https://doi.org/10.1111/1365-2435.14487). Functional Ecology *Early view*.
+
 - **Hagan JG**, Henn JJ, Osterman WHA (2022). [Matters Arising: Plant traits alone are good predictors of ecosystem properties when used carefully](https://doi.org/10.1038/s41559-020-01316-9). Nature Ecology and Evolution 7. Response to: van der Plas et al. (2020, Nature Ecology and Evolution). 
 
 - **Hagan JG**, Schrofner-Brunner B, Gamfeldt L (2023, preprint). [Quantifying biodiversity effects on ecosystem functioning across space and time in natural and semi-natural ecosystems](https://doi.org/10.21203/rs.3.rs-3249429/v1). ResearchSquare.
 
-- Gould E, … **Hagan JG**, et al. (2023, preprint). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology](https://doi.org/10.32942/X2GG62). EcoEvoRxiv. 
+- Gould E, … **Hagan JG**, et al. (2023, preprint). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology](https://doi.org/10.32942/X2GG62). EcoEvoRxiv.
 
 - Gamfeldt L, **Hagan JG**, Farewell A, Palm M, Warringer J, Roger F. (2023). [Scaling-up the biodiversity–ecosystem functioning relationship: the effect of environmental heterogeneity on transgressive overyielding](https://doi.org/10.1111/oik.09652). *Oikos* 2023: e09652.
 

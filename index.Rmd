@@ -25,7 +25,7 @@ pre {
 
 #### ABOUT ME
 
-I'm a quantitative ecologist by training with a fondness for data science and statistics. My favourite tools are R and Stan. I'm also passionate about data visualisation as a tool for communication.
+I'm a quantitative ecologist by training with a fondness for data science and statistics. My favourite tools are R and Stan. I'm also passionate about data visualisation as a way to communicate complex ideas.
 
 I took a *BSc* with a major in *Ecology and Evolution* from the University of Cape Town, South Africa (my home town). From then, I completed an *MSc* in Tropical Biology on an Erasmus Mundus scholarship before starting my current position as a a PhD student at the University of Gothenburg in Sweden.
 <br>
