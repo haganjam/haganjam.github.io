@@ -26,4 +26,7 @@ navbar:
       href: https://scholar.google.com/citations?user=YCNVdw0AAAAJ&hl=en
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/haganjam 
+      href: https://github.com/haganjam
+    - text: "DataViz"  
+      icon: fa-solid fa-chart-bar
+      href: https://github.com/haganjam/Data_viz
